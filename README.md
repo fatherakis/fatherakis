@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatherakis
 - 👀 I’m interested in ... Discord Bots, transforming phones to servers and keeping my assignments here
-- 🌱 I’m currently learning ... how ece can in inflict psycological pain along with physical
+- 🌱 I’m currently learning ... how ECE can in inflict psycological pain along with physical
 - 💞️ I’m looking to collaborate on ... idk u tell me
 - 📫 How to reach me paterakis.alexandros2000@gmail.com
 
