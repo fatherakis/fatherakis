@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @fatherakis
-- 👀 I’m interested in ... Discord Bots, transforming phones to servers and keeping my assignments here
-- 🌱 I’m currently learning ... how ECE can in inflict psycological pain along with physical
-- 💞️ I’m looking to collaborate on ... idk u tell me
-- 📫 How to reach me paterakis.alexandros2000@gmail.com
+ 👋 Hi, I’m 
+ ``` @fatherakis#7858 ```
+
+👀 I’m interested in ...``` Discord Bots,Setting up servers, cool arduino projects and saving my assignments here ```
+
+🌱 I’m currently learning ... *how ECE can in inflict psycological and physical pain with an assignment efficiency of 2*
+
+ 💞️ I’m looking to collaborate on ... a trip to *S-**pain***
+ 
+ 📫 How to reach me paterakis.alexandros2000@gmail.com
 
 <!---
 fatherakis/fatherakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
