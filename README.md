@@ -22,4 +22,10 @@ Lets play a game: Guess which is the hardware language from the above. (Literall
 - <a href="https://letsplay-bio.herokuapp.com/image4?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image4" width="18"/></a> VHDL
 
 
+<details><summary>About this interaction</summary>
+  
+  This interactive markdown implementation was inspired from github.com/HFO4 's work on a gameboy simulator in markdown.
+</details>
+
+
 📫 How to reach me paterakis.alexandros2000@gmail.com
