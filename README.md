@@ -17,9 +17,9 @@ Mostly focused on C, Python, Javascript  and VHDL.
 Lets play a game: Guess which is the hardware language from the above. (Literally click one.)
 
 - <a href="https://letsplay-bio.herokuapp.com/image1?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image1" width="18"/></a> C
-- <a href="https://letsplay-bio.herokuapp.com/image1?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image2" width="18"/></a> Python
-- <a href="https://letsplay-bio.herokuapp.com/image1?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image3" width="18"/></a> Javascript
-- <a href="https://letsplay-bio.herokuapp.com/image1?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image4" width="18"/></a> VHDL
+- <a href="https://letsplay-bio.herokuapp.com/image2?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image2" width="18"/></a> Python
+- <a href="https://letsplay-bio.herokuapp.com/image3?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image3" width="18"/></a> Javascript
+- <a href="https://letsplay-bio.herokuapp.com/image4?callback=https://github.com/fatherakis"><img src="https://letsplay-bio.herokuapp.com/image4" width="18"/></a> VHDL
 
 
 📫 How to reach me paterakis.alexandros2000@gmail.com
