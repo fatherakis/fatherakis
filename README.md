@@ -1,7 +1,7 @@
 
-# 👋 Hi, I’m
+# 👋 Hi
 
- ``` @fatherakis#7858 ```
+I’m ``` @fatherakis#7858 ```
 
 👀 I’m interested in ...``` Discord Bots,Setting up servers, cool arduino projects and saving my assignments here ```
 
