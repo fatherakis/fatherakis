@@ -24,7 +24,7 @@ Lets play a game: I believe you know this
 Game controls: 
 
 <p align="center">
-    <a href="http://letsplay-bio.herokuapp.com/reset&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/rst" height="30"/></a> 
+    <a href="http://letsplay-bio.herokuapp.com/reset?callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/rst" height="30"/></a> 
 </p>
 
 <p align="center">
