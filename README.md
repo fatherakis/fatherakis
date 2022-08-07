@@ -20,7 +20,7 @@ Mostly focused on C, Python, Javascript  and VHDL.
 Lets play a game: I believe you know this, its your turn. You are X
 
 <p align="center">
-  <img src="http://letsplay-bio.herokuapp.com/state" height="100"/>
+  <img src="http://letsplay-bio.herokuapp.com/state" height="80"/>
 </p>
 <p align="center">
   <img src="http://letsplay-bio.herokuapp.com/image" height="200"/>
