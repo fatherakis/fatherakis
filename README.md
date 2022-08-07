@@ -11,11 +11,13 @@ I’m ``` @fatherakis#7858 ```
 
 🌱 I’m currently learning ... 
     *How wondreful the world of electronics wouldn't be if there were no assignments in it.*
-    *Improving my knowledge in programming and hardware languages.* 
+    <br>
+    <br>
+    Currently improving my knowledge in programming and hardware languages.
 
 Mostly focused on C, Python, Javascript  and VHDL.
 
-Lets play a game: I believe you know this, its your turn.
+Lets play a game: I believe you know this, its your turn. You are X
 
 <p align="center">
   <img src="http://letsplay-bio.herokuapp.com/image" height="200"/>
