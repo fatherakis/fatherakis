@@ -24,25 +24,25 @@ Lets play a game: I believe you know this
 Game controls: 
 
 <p align="center">
-    <a href="http://letsplay-bio.herokuapp.com/reset&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/rst" height="20"/></a> 
+    <a href="http://letsplay-bio.herokuapp.com/reset&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/rst" height="30"/></a> 
 </p>
 
 <p align="center">
-  <a href="http://letsplay-bio.herokuapp.com/play?control=tl&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tl" height="20"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=tm&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tm" height="20"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=tr&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tr" height="20"/></a>
+  <a href="http://letsplay-bio.herokuapp.com/play?control=tl&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tl" height="20"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=tm&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tm" height="20"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=tr&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/tr" height="20"/></a>
   <br> 
   &nbsp;&nbsp;&nbsp;======&nbsp;●&nbsp;=======&nbsp;●&nbsp;========
   <br>
-  <a href="http://letsplay-bio.herokuapp.com/play?control=cl&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cl" height="20"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=cm&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cm" height="20"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=cr&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cr" height="20"/></a>
+  <a href="http://letsplay-bio.herokuapp.com/play?control=cl&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cl" height="20"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=cm&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cm" height="20"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=cr&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/cr" height="20"/></a>
   <br> 
   &nbsp;&nbsp;&nbsp;======&nbsp;●&nbsp;=======&nbsp;●&nbsp;========
   <br>
-  <a href="http://letsplay-bio.herokuapp.com/play?control=bl&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/bl" height="20" weight="10"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=bm&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/bm" height="20" weight="10"/></a> ||
-  <a href="http://letsplay-bio.herokuapp.com/play?control=br&callback="https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/br" height="20" weight="10"/></a> 
+  <a href="http://letsplay-bio.herokuapp.com/play?control=bl&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/bl" height="20" weight="10"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=bm&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/bm" height="20" weight="10"/></a> ||
+  <a href="http://letsplay-bio.herokuapp.com/play?control=br&callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/br" height="20" weight="10"/></a> 
 </p>
 
 
