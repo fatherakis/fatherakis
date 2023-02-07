@@ -29,7 +29,7 @@ Lets play a game: I believe you know this, its your turn. You are X
 - Game controls: 
 
 <p align="center">
-    <a href="http://letsplay.fly.dev/reset?callback=https://github.com/fatherakis"><img src="http://letsplay-bio.herokuapp.com/control/rst" height="30"/></a> 
+    <a href="http://letsplay.fly.dev/reset?callback=https://github.com/fatherakis"><img src="http://letsplay.fly.dev/control/rst" height="30"/></a> 
 </p>
 
 <p align="center">
