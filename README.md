@@ -5,17 +5,13 @@
 I’m ``` @fatherakis#7858 ```
 
 👀 I’m interested in ...
-    ```Bot ideas for any supported platform eg. Discord, Twitter, Github etc.```
-    ```Arduino Projects (They do seem interesting and fun to program)```
-    ```Raspberry Pi projects learning any potential uses for it and trying to make them possible```
 
-🌱 I’m currently learning ... 
-    *How wondreful the world of electronics wouldn't be if there were no assignments in it.*
-    <br>
-    <br>
-    Currently improving my knowledge in programming and hardware languages.
+- ``Bot ideas for any supported platform eg. Discord, Twitter, Github etc.``
+- ``Arduino/Microcontrollers`` (They do seem interesting and fun to program)
+- ``Raspberry Pi projects`` learning any potential uses for it and trying to make them possible. 
+- ``Neural Networks and Machine Learning from a Hardware Approach``
 
-Mostly focused on C, Python, Javascript  and VHDL.
+My prefered programming languages now: C/C++, Python for Development, Javascript for Bots an WebApps.
 
 Lets play a game: I believe you know this, its your turn. You are X
 
@@ -54,7 +50,7 @@ Lets play a game: I believe you know this, its your turn. You are X
 
 <details><summary>About this interaction</summary>
   
-  This interactive markdown implementation was inspired from github.com/HFO4 's work on a gameboy simulator in markdown.
+  This interactive markdown implementation was inspired from [HFO4](https://www.github.com/HFO4)'s work on a gameboy simulator in markdown.
 </details>
 
 
