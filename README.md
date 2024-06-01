@@ -2,7 +2,7 @@
 # 👋 Hi
 
 
-I’m ``` @fatherakis#7858 ```
+I’m ``` Alex ```
 
 👀 I’m interested in ...
 
