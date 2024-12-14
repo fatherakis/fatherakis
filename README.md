@@ -13,6 +13,10 @@ I’m ``` Alex ```
 
 My prefered programming languages now: C/C++, Python for Development, Javascript for Bots an WebApps.
 
+> [!Caution]
+> TicTacToe game below is unresponsive due to hosting issues. This message will disappear once resolved.
+
+
 Lets play a game: I believe you know this, its your turn. You are X
 
 <p align="center">
@@ -54,4 +58,4 @@ Lets play a game: I believe you know this, its your turn. You are X
 </details>
 
 
-📫 How to reach me paterakis.alexandros2000@gmail.com
+📫 How to reach me apaterakis.2k@gmail.com
