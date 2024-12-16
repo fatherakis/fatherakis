@@ -4,6 +4,9 @@
 
 I’m ``` Alex ```
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatherakis&hide=batchfile&theme=gruvbox&layout=compact&hide_border=true&card_width=350)
+
+
 👀 I’m interested in ...
 
 - ``Bot ideas for any supported platform eg. Discord, Twitter, Github etc.``
