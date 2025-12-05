@@ -4,7 +4,7 @@
 
 I’m ``` Alex ```
 
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+![Top Languages](https://github-stats-readme-three.vercel.app/api/top-langs/?username=fatherakis&hide=batchfile&theme=gruvbox&layout=compact&hide_border=true&langs_count=12&card_width=510)
 
 
 👀 I’m interested in ...
